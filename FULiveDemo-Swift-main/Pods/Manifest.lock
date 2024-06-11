@@ -1,0 +1,30 @@
+PODS:
+  - HandyJSON (5.0.2)
+  - SnapKit (4.2.0)
+  - SVProgressHUD (2.2.5)
+  - TXLiteAVSDK_TRTC (11.8.15687):
+    - TXLiteAVSDK_TRTC/TRTC (= 11.8.15687)
+  - TXLiteAVSDK_TRTC/TRTC (11.8.15687)
+
+DEPENDENCIES:
+  - HandyJSON
+  - SnapKit
+  - SVProgressHUD
+  - TXLiteAVSDK_TRTC
+
+SPEC REPOS:
+  trunk:
+    - HandyJSON
+    - SnapKit
+    - SVProgressHUD
+    - TXLiteAVSDK_TRTC
+
+SPEC CHECKSUMS:
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TXLiteAVSDK_TRTC: 598caddc776c809155ee0a5fca23a457ee743c2f
+
+PODFILE CHECKSUM: b0fe5370a81344d0bbc4c89652bf46b41d71a100
+
+COCOAPODS: 1.14.3
